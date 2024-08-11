@@ -80,5 +80,10 @@ button{
 .logo-list{
     height:16px
 }
-
+@media (max-width:320px){
+    .banner{
+    background-color: #ffcd9e;
+    display: flex;
+}
+    
 
