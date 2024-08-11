@@ -82,8 +82,14 @@ button{
 }
 @media (max-width:320px){
     .banner{
-    background-color: #ffcd9e;
-    display: flex;
+        background-color: #ffcd9e;
+        display: flex;
+    }    .
+}
+@media (max-width:320px){
+    body{
+        width:100%;
+    }
 }
     
 
